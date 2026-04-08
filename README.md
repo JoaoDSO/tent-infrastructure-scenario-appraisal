@@ -113,7 +113,7 @@ The final recommendation of the project is **SC20**, because it combines:
     ├── fra_bcr_distribution_page.png
     ├── simdec_result_page.png
     └── cosima_trr_comparison_page.png
-
+````
 ## Files in This Repository
 - `docs/final-report.pdf` — final written project report
 - `docs/project-brief.pdf` — original assignment brief
