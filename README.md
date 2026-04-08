@@ -109,7 +109,7 @@ The final recommendation of the project is **SC20**, because it combines:
 │   ├── electre-model.xlsx
 │   └── cost-benefit-analysis.xlsx
 └── images/
-    ├── electre_outranking_graph.png
+    ├── electre_outranking_graph_page.png
     ├── fra_bcr_distribution_page.png
     ├── simdec_result_page.png
     └── cosima_trr_comparison_page.png
