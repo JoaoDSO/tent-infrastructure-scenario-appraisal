@@ -124,11 +124,8 @@ The final recommendation of the project is **SC20**, because it combines:
 - `models/cost-benefit-analysis.xlsx` — Excel workbook containing the CBA, FRA, and composite analyses
 
 ## My Contribution
-This was a **group project**. If you use this repository in applications, keep the README honest and explicit about that. A good way to present it is:
-
+This was a **group project**.
 > Team project completed as part of the DTU course *Decision Support and Strategic Assessment*. I contributed to the analysis, modeling, and report development.
-
-If you want, you can replace this section with a more specific description of your own contribution.
 
 ## Notes
 - This repository is intended as a **portfolio project** and documentation of the analytical workflow.
