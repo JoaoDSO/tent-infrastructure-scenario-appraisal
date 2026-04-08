@@ -1,4 +1,12 @@
-Course project for **Decision Support and Strategic Assessment (DTU)**.
+# TEN-T Infrastructure Scenario Appraisal
+
+Decision-support appraisal of EU TEN-T infrastructure scenarios using ELECTRE, cost-benefit analysis (CBA), Monte Carlo simulation, REMBRANDT MCDA, and composite assessment (SIMDEC & COSIMA).
+
+**Course:** Decision Support and Strategic Assessment (DTU)  
+**Type:** Group analytical project  
+**Final recommendation:** Scenario 20 (SC20)
+
+The objective is to support infrastructure investment decisions by combining economic evaluation with strategic and risk-based analysis.
 
 ## Overview
 This project evaluates infrastructure scenarios from the EU **Trans-European Transport Network (TEN-T)** portfolio and recommends the most attractive option from an economic and strategic perspective.
@@ -11,7 +19,7 @@ The analysis follows a staged decision-support workflow:
 5. **Composite assessment** using **SIMDEC** and **COSIMA**
 
 ## Problem Statement
-The assignment was framed as an appraisal study for the **EU Commission**. The objective was to identify the most attractive TEN-T scenario by combining economic performance with strategic, environmental, and social considerations.
+The project was structured as an appraisal study for the **European Commission**. The objective was to identify the most attractive TEN-T scenario by combining economic performance with strategic, environmental, and social considerations.
 
 ## Methods Used
 
@@ -58,6 +66,20 @@ Two composite approaches were used:
 - **SIMDEC**, which added socio-economic robustness from the FRA into the MCDA
 - **COSIMA**, which translated the MCDA into CBA terms through shadow prices and TRR analysis
 
+## Key Visuals
+
+### ELECTRE Screening
+![ELECTRE](images/electre_outranking_graph.png)
+
+### FRA – BCR Distribution
+![FRA](images/fra_bcr_distribution_page.png)
+
+### SIMDEC Results
+![SIMDEC](images/simdec_result_page.png)
+
+### COSIMA Comparison
+![COSIMA](images/cosima_trr_comparison_page.png)
+
 ## Main Findings
 - The ELECTRE screening shortlisted **SC01, SC10, SC18, and SC20**
 - In the CBA, **SC10** had the highest **BCR (1.54)**, while **SC20** also performed strongly with **BCR 1.40**
@@ -67,9 +89,9 @@ Two composite approaches were used:
 
 ## Recommendation
 The final recommendation of the project is **SC20**, because it combines:
-- strong economic performance,
-- robust performance under uncertainty,
-- and strong alignment with the strategic objectives captured by the MCDA.
+- strong economic performance
+- robust performance under uncertainty
+- strong alignment with the strategic objectives captured by the MCDA
 
 ## Repository Structure
 ```text
@@ -87,11 +109,10 @@ The final recommendation of the project is **SC20**, because it combines:
 │   ├── electre-model.xlsx
 │   └── cost-benefit-analysis.xlsx
 └── images/
-    ├── electre_outreanking_graph_page.png
+    ├── electre_outranking_graph.png
     ├── fra_bcr_distribution_page.png
     ├── simdec_result_page.png
     └── cosima_trr_comparison_page.png
-```
 
 ## Files in This Repository
 - `docs/final-report.pdf` — final written project report
