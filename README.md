@@ -69,7 +69,7 @@ Two composite approaches were used:
 ## Key Visuals
 
 ### ELECTRE Screening
-![ELECTRE](images/electre_outranking_graph.png)
+![ELECTRE](images/electre_outranking_graph_page.png)
 
 ### FRA – BCR Distribution
 ![FRA](images/fra_bcr_distribution_page.png)
